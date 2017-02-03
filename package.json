@@ -1,0 +1,23 @@
+{
+  "name": "firstmodule",
+  "version": "1.0.0",
+  "description": "This is my first node module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/githubakash/FirstNPMModule.git"
+  },
+  "keywords": [
+    "NPM",
+    "MOdule"
+  ],
+  "author": "Akash Agarwal <akash.software.1982@gmail.com> (http://www.codingconcept2code.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/githubakash/FirstNPMModule/issues"
+  },
+  "homepage": "https://github.com/githubakash/FirstNPMModule#readme"
+}
