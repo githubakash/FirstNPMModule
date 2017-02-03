@@ -1,5 +1,5 @@
 {
-  "name": "firstmodule",
+  "name": "firstmoduleofakashagarwal",
   "version": "1.0.0",
   "description": "This is my first node module",
   "main": "index.js",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/githubakash/FirstNPMModule/issues"
   },
-  "homepage": "https://github.com/githubakash/FirstNPMModule#readme"
+  "homepage": "https://github.com/githubakash/FirstNPMModule#readme",
+  "dependencies": {
+    "request": "^2.79.0"
+  }
 }
